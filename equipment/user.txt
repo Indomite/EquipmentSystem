@@ -1,0 +1,4 @@
+1	Alice	123456	user	
+1	Alice2	123456	admin	
+2019	jack	123456	user	
+12	Lola	1234	admin
